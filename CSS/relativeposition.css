@@ -9,16 +9,22 @@
   background-color: rosybrown;
   width: 400px;
   height: 200px;
+  border: 2px solid black;
 }
 
 .box2 {
   background-color: aliceblue;
   width: 400px;
   height: 200px;
+  border: 2px solid black;
+  position: relative;
+  top: 20px;
+  left: 20px;
 }
 
 .box3 {
   background-color: aqua;
   width: 400px;
   height: 200px;
+  border: 2px solid black;
 }
