@@ -1,6 +1,7 @@
 .box-container {
   background-color: yellow;
   height: auto;
+  padding: 20px;
 }
 
 .box1 {
@@ -8,6 +9,8 @@
   width: 400px;
   height: 200px;
   border: 2px solid black;
+  float: right;
+  margin-bottom: 15px;
 }
 
 .box2 {
@@ -15,6 +18,7 @@
   width: 400px;
   height: 200px;
   border: 2px solid black;
+  margin-bottom: 15px;
 }
 
 .box3 {
@@ -22,4 +26,5 @@
   width: 400px;
   height: 200px;
   border: 2px solid black;
+  margin-bottom: 15px;
 }
